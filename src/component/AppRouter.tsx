@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import {Login} from "../pages/Login";
+import {Login} from "../pages/Login/Login";
 import {PrivatePage} from "../pages/PrivatePage";
 
 export const AppRouter:FC = () => {
