@@ -1,12 +1,8 @@
 import React, {FC} from 'react';
+import {Button, Input} from '../../component/UI';
 import style from '../Login/Login.module.css';
-import {Input} from "../../component/UI/input/Input";
-import {Button} from "../../component/UI/button/Button";
 
 export const Login:FC = () => {
-
-
-
     return (
         <div className={style.content}>
             <form className={style.form}>
