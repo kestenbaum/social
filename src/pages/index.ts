@@ -1,4 +1,4 @@
-import {PrivatePage} from './PrivatePage';
+import {PrivatePage} from './PrivatePage/PrivatePage';
 import {Login} from './Login/Login';
 
 export {
